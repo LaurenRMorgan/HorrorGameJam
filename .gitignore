@@ -70,3 +70,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Large files to be ignored
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/hostmac/dsymutil
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/libburst-llvm-10.dylib
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/libburst-llvm-14.so
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/burst-llvm-14.dll
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/hostlin/dsymutil
+Library/ArtifactDB
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/hostwin/dsymutil.exe
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/burst-llvm-43FFF67504C1B77C_14.dll
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/burst-llvm-B4B9E3881B00232E_14.dll
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/burst-llvm-B4B9E3881B00232E_13.dll
+
